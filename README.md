@@ -10,9 +10,9 @@ Designed to help users quickly discover **meaningful** and **actionable** conten
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#/project-overview)
-2. [Key Features](#/key-features)
-3. [How It Works](#/how-it-works)
+1. [Project Overview](#-project-overview)
+2. [Key Features](#-key-features)
+3. [How It Works](#-how-it-works)
 4. [Project Files](#-project-files)
 5. [Requirements](#-requirements)
 6. [Usage](#-usage)
